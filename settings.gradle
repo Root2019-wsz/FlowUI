@@ -1,0 +1,2 @@
+rootProject.name = "FlowUI"
+include ':app'
